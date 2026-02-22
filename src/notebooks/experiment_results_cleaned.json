@@ -1,0 +1,595 @@
+[
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "serpapi",
+        "ocr_text": "Replay\nVOUCHER\nCOINS\nMAX\n1/3\nPromo Resmi\nQRISIExtra 2% Off\ns&K\nBerakhir dalam 00.31.44.8\nLazMall] Honda Oli Motor Matic MPX2 0.8 L IOW3O\nTOP 10 Add-to-cart in Oli\nBeli sekarang\nOngkir Rpo\nBERHASIL",
+        "product_data": {
+            "product_name": "Honda Oli Motor Matic MPX2 0.8 L IOW3O",
+            "price": null,
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Harga 3 Pcs Oli Motor Matic Mpx2 800Ml 10W-30 Khusus Honda Matic Vario Beat Scoopy\",\n    \"price_idr\": 25097,\n    \"store\": \"Lazada Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Oli MPX2 800 ml AHM Oil Matic MPX 2 0.8L\",\n    \"price_idr\": 29000,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"OLI MPX2 0.8L Oli motor matic honda Mpx2 0.8 Oli matic Mpx 2 0.8L Oli mpx2 matic 800ml oli mpx\",\n    \"price_idr\": 29900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "serpapi",
+        "ocr_text": "23.28 & 00\n0\nu/ 10%\nhonda\nReplay\n3\nPDOTICTIOY\nICANOLOCY\n08L\nVOUCHER\n1O0P GRATIS ONGKIR\nCOINS\nMAX\n1/3\n'Hanya Hari Ini\nPromo Resmi\nDiskon Tambahan\nHarga Order Pertama\nRp63.513 Rp73.389 -13%\nHemat ekstra Rp676 dengan 67 Koin\nQRISIExtra 2% Off\ns&K\n% Diskon\nAutomotive\nBerakhir dalam 00.31.44.8\nLazMall] Honda Oli Motor Matic MPX2 0.8 L IOW3O\nSLMB\nBest Sellers\nTOP 10 Add-to-cart in Oli\nBeli sekarang\nToko\nChat\nOngkir Rpo\nOC\nBERHASIL",
+        "product_data": {
+            "product_name": "Honda Oli Motor Matic MPX2 0.8 L IOW3O",
+            "price": "63513",
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Oli Motor Yamalube Matic 0.8 Liter (800 ml)\",\n    \"price_idr\": 30000,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=Oli%20Motor%20Yamalube%20Matic%200.8%20Liter\"\n  },\n  {\n    \"name\": \"Oil Oli Mesin Matic 4T 10W-40 0,8ML ECCO\",\n    \"price_idr\": 30240,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=Oil%20Oli%20Mesin%20Matic%204T%2010W-40%200,8ML%20ECCO\"\n  },\n  {\n    \"name\": \"OLI MOTOR MATIC FULL SYNTHETIC 800ml 0.8L kualitas bagus lebih melindungi mesin\",\n    \"price_idr\": 31500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=OLI%20MOTOR%20MATIC%20FULL%20SYNTHETIC%20800ml%200.8L\"\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "ddg",
+        "ocr_text": "Replay\nVOUCHER\nCOINS\nMAX\n1/3\nPromo Resmi\nQRISIExtra 2% Off\ns&K\nBerakhir dalam 00.31.44.8\nLazMall] Honda Oli Motor Matic MPX2 0.8 L IOW3O\nTOP 10 Add-to-cart in Oli\nBeli sekarang\nOngkir Rpo\nBERHASIL",
+        "product_data": {
+            "product_name": "Honda Oli Motor Matic MPX2 0.8 L IOW3O",
+            "price": null,
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Oli Mesin Matic Honda MPX 2 800ml - Perlindungan Optimal, Efisiensi Bahan Bakar, Kompatibel untuk Matic Honda\",\n    \"price_idr\": 27500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Oli MPX2 800 ml AHM Oil Matic MPX 2 0.8L\",\n    \"price_idr\": 29000,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Oli Motor Honda Matic MPX 2 , 0,8L AHM 10W-30\",\n    \"price_idr\": 30990,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "ddg",
+        "ocr_text": "23.28 & 00\n0\nu/ 10%\nhonda\nReplay\n3\nPDOTICTIOY\nICANOLOCY\n08L\nVOUCHER\n1O0P GRATIS ONGKIR\nCOINS\nMAX\n1/3\n'Hanya Hari Ini\nPromo Resmi\nDiskon Tambahan\nHarga Order Pertama\nRp63.513 Rp73.389 -13%\nHemat ekstra Rp676 dengan 67 Koin\nQRISIExtra 2% Off\ns&K\n% Diskon\nAutomotive\nBerakhir dalam 00.31.44.8\nLazMall] Honda Oli Motor Matic MPX2 0.8 L IOW3O\nSLMB\nBest Sellers\nTOP 10 Add-to-cart in Oli\nBeli sekarang\nToko\nChat\nOngkir Rpo\nOC\nBERHASIL",
+        "product_data": {
+            "product_name": "Honda Oli Motor Matic MPX2 0.8 L IOW3O",
+            "price": "63513",
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Oli Motor Yamalube Matic 0.8 Liter (800 ml)\",\n    \"price_idr\": 30000,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=Oli%20Motor%20Yamalube%20Matic%200.8%20Liter\"\n  },\n  {\n    \"name\": \"Oil Oli Mesin Matic 4T 10W-40 0,8ML ECCO\",\n    \"price_idr\": 30240,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=Oil%20Oli%20Mesin%20Matic%204T%2010W-40%200,8ML%20ECCO\"\n  },\n  {\n    \"name\": \"OLI MOTOR MATIC FULL SYNTHETIC 800ml 0.8L kualitas bagus lebih melindungi mesin\",\n    \"price_idr\": 31500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=OLI%20MOTOR%20MATIC%20FULL%20SYNTHETIC%20800ml%200.8L\"\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "serpapi",
+        "ocr_text": "{\"menu\": [{\"nm\": \"-Homya Hari Ini\", \"unitprice\": \"73.000\", \"cnt\": {\"unitprice\": \"73.000\"}, \"discountprice\": \"-13%\", \"price\": \"Promo\"}, {\"nm\": \"Hemat ekstra Rp 676 dengan 67 Koin\", \"unitprice\": \"69\", \"cnt\": \"67\", \"discountprice\": {\"cnt\": \"6%\"}, \"price\": \"0.8 L10W30\"}], \"sub_total\": {\"subtotal_price\": \"Bali seckarang\"}, \"total\": {\"total_price\": \"Ong kir Rp 0\", \"creditcardprice\": \"0\"}}",
+        "product_data": {
+            "product_name": "-Homya Hari Ini",
+            "price": "73000",
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"SPEEDS SNI Playmat Bayi Karpet Lipat Playmat Polos Bahan Asli XPE 180x200cmx 6-10mm Matras Bayi Playmat Foam 027-15\",\n    \"price_idr\": 31500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"CALARY Playmat Bayi SNI F 180x200cm Karpet Lipat Foam XPE 027-15\",\n    \"price_idr\": 31500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"SPEEDS Playmat Perlak Bayi Anak Alas Tidur Playmate Bayi Karpet Lipat Bahan Asli XPE 180x200cm Matras Karpet Bayi Tebal\",\n    \"price_idr\": 31500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "ddg",
+        "ocr_text": "{\"menu\": [{\"nm\": \"-Homya Hari Ini\", \"unitprice\": \"73.000\", \"cnt\": {\"unitprice\": \"73.000\"}, \"discountprice\": \"-13%\", \"price\": \"Promo\"}, {\"nm\": \"Hemat ekstra Rp 676 dengan 67 Koin\", \"unitprice\": \"69\", \"cnt\": \"67\", \"discountprice\": {\"cnt\": \"6%\"}, \"price\": \"0.8 L10W30\"}], \"sub_total\": {\"subtotal_price\": \"Bali seckarang\"}, \"total\": {\"total_price\": \"Ong kir Rp 0\", \"creditcardprice\": \"0\"}}",
+        "product_data": {
+            "product_name": "-Homya Hari Ini",
+            "price": "73000",
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"SPEEDS SNI Playmat Bayi Karpet Lipat Playmat Polos Bahan Asli XPE 180x200cmx 6-10mm Matras Bayi Playmat Foam 027-15\",\n    \"price_idr\": 31500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"MOLION SNI A Playmat XPE Lipat 180x200x6-8-10-16mm Karpet Tidur Bayi Motif Bolak Balik Matras Anak Lipat 027-13\",\n    \"price_idr\": 42000,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Playmat Puzzle Bayi 30x30cm \u2013 Alas Bermain Eva Foam Aimi, Aman & Nyaman | TOYSBAR - 1CM KAYU ABU SET ISI 9\",\n    \"price_idr\": 52000,\n    \"store\": \"tokopedia.com\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "serpapi",
+        "ocr_text": "2/16\n1ORB+ Terjual\n[coD]Headphone X55 Headphone Tidur Headset\nBluetooth Gaming Daya Tahan Baterai Super Panjan.\nLihat Semua\nKualitas baik (1219\nBeli Dengan Voucher\nRp18.750",
+        "product_data": {
+            "product_name": "[coD]Headphone X55 Headphone Tidur Headset Bluetooth Gaming Daya Tahan Baterai Super Panjan.",
+            "price": 18750,
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"X15 Headset Earbud Bluetooth 5.0 Tampilan Digital Nirkabel Game TWS Earphone Stereo Olahraga Headphone In-Ear Tahan Air dengan Mikrofon\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"P47M Headphone Headset Bluetooth Gaming Cat Ears Wireless Bluetooth RGB Led Light Super Bass Stereo Bando Headset Gaming Telinga Kucing\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Pro 6 TWS Headset Bluetooth Gaming Earphone With Microphone Bass Headphone Wireless Earbuds\",\n    \"price_idr\": 28499,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "serpapi",
+        "ocr_text": "Tidak di telinga,\nbenar-benar tanpa rasa sekit\nPemasangan klip telinga unik\nKualitas suara HiFI\n2\n2/16\nVariasi Tersedia\nRp18.750& Dengan Voucher\n1ORB+ Terjual\nStar\n[coD]Headphone X55 Headphone Tidur Headset\nBluetooth Gaming Daya Tahan Baterai Super Panjan.\nMohon atur lokasi peta\nBebas Pengembalian\n4.8\nPenilaian Produk (31,4RB)\nLihat Semua\nKualitas suara bagus (1837)\nKualitas baik (1219\nBeli Dengan Voucher\nRp18.750\n4005",
+        "product_data": {
+            "product_name": "[coD]Headphone X55 Headphone Tidur Headset Bluetooth Gaming Daya Tahan Baterai Super Panjan.",
+            "price": "18750",
+            "rating": "4.8"
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"P47M Headphone Headset Bluetooth Gaming Cat Ears Wireless Bluetooth RGB Led Light Super Bass Stereo Bando Headset Gaming Telinga Kucing\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=P47M%20Headphone%20Headset%20Bluetooth%20Gaming%20Cat%20Ears%20Wireless%20Bluetooth%20RGB%20Led%20Light%20Super%20Bass%20Stereo%20Bando%20Headset%20Gaming%20Telinga%20Kucing\"\n  },\n  {\n    \"name\": \"X15 Headset Earbud Bluetooth 5.0 Tampilan Digital Nirkabel Game TWS Earphone Stereo Olahraga Headphone In-Ear Tahan Air dengan Mikrofon\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=X15%20Headset%20Earbud%20Bluetooth%205.0%20Tampilan%20Digital%20Nirkabel%20Game%20TWS%20Earphone%20Stereo%20Olahraga%20Headphone%20In-Ear%20Tahan%20Air%20dengan%20Mikrofon\"\n  },\n  {\n    \"name\": \"Pro 6 TWS Headset Bluetooth Gaming Earphone With Microphone Bass Headphone Wireless Earbuds\",\n    \"price_idr\": 28499,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=Pro%206%20TWS%20Headset%20Bluetooth%20Gaming%20Earphone%20With%20Microphone%20Bass%20Headphone%20Wireless%20Earbuds\"\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "ddg",
+        "ocr_text": "2/16\n1ORB+ Terjual\n[coD]Headphone X55 Headphone Tidur Headset\nBluetooth Gaming Daya Tahan Baterai Super Panjan.\nLihat Semua\nKualitas baik (1219\nBeli Dengan Voucher\nRp18.750",
+        "product_data": {
+            "product_name": "[coD]Headphone X55 Headphone Tidur Headset Bluetooth Gaming Daya Tahan Baterai Super Panjan.",
+            "price": 18750,
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Lenovo Headphone Bluetooth Wireless V5.0 th10 1pc\",\n    \"price_idr\": 1,\n    \"store\": \"souvia.co.id\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"HEADPHONE BLUETOOTH HEADPHONE GAMING\",\n    \"price_idr\": 27500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"X15 Headset Earbud Bluetooth 5.0 Tampilan Digital Nirkabel Game TWS Earphone Stereo Olahraga Headphone In-Ear Tahan Air dengan Mikrofon\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "ddg",
+        "ocr_text": "Tidak di telinga,\nbenar-benar tanpa rasa sekit\nPemasangan klip telinga unik\nKualitas suara HiFI\n2\n2/16\nVariasi Tersedia\nRp18.750& Dengan Voucher\n1ORB+ Terjual\nStar\n[coD]Headphone X55 Headphone Tidur Headset\nBluetooth Gaming Daya Tahan Baterai Super Panjan.\nMohon atur lokasi peta\nBebas Pengembalian\n4.8\nPenilaian Produk (31,4RB)\nLihat Semua\nKualitas suara bagus (1837)\nKualitas baik (1219\nBeli Dengan Voucher\nRp18.750\n4005",
+        "product_data": {
+            "product_name": "[coD]Headphone X55 Headphone Tidur Headset Bluetooth Gaming Daya Tahan Baterai Super Panjan.",
+            "price": 18750,
+            "rating": 4.8
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"P47M Headphone Headset Bluetooth Gaming Cat Ears Wireless Bluetooth RGB Led Light Super Bass Stereo Bando Headset Gaming Telinga Kucing\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=P47M%20Headphone%20Headset%20Bluetooth%20Gaming%20Cat%20Ears%20Wireless%20Bluetooth%20RGB%20Led%20Light%20Super%20Bass%20Stereo%20Bando%20Headset%20Gaming%20Telinga%20Kucing\"\n  },\n  {\n    \"name\": \"X15 Headset Earbud Bluetooth 5.0 Tampilan Digital Nirkabel Game TWS Earphone Stereo Olahraga Headphone In-Ear Tahan Air dengan Mikrofon\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=X15%20Headset%20Earbud%20Bluetooth%205.0%20Tampilan%20Digital%20Nirkabel%20Game%20TWS%20Earphone%20Stereo%20Olahraga%20Headphone%20In-Ear%20Tahan%20Air%20dengan%20Mikrofon\"\n  },\n  {\n    \"name\": \"Pro 6 TWS Headset Bluetooth Gaming Earphone With Microphone Bass Headphone Wireless Earbuds\",\n    \"price_idr\": 28499,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=Pro%206%20TWS%20Headset%20Bluetooth%20Gaming%20Earphone%20With%20Microphone%20Bass%20Headphone%20Wireless%20Earbuds\"\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "serpapi",
+        "ocr_text": "{\"menu\": [{\"nm\": \"Vanisil tersedia\", \"cnt\": \"6\", \"price\": {\"cnt\": \"10RB+ Terjual\"}, \"sub\": {\"nm\": \"[COD]Headphone X55 Headphone Tidur Headset\"}}, {\"nm\": \"Bebas Pengembalain\", \"cnt\": \"2\", \"price\": \"<\"}], \"sub_total\": {\"subtotal_price\": \"(31,6RB)\", \"discount_price\": \"<\", \"tax_price\": \"(837)\"}, \"total\": {\"total_price\": \"Blat Semua <\", \"cashprice\": \"(1219)\", \"changeprice\": \"Rp 18,750\"}}",
+        "product_data": {
+            "product_name": "[COD]Headphone X55 Headphone Tidur Headset",
+            "price": "18750",
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"G153 SLEEP Headset Handsfree Earphone Hifi Wired Mega Bass Stereo Soft Silicone Wear Comfortable With Audio Jack 3.5mm Plug In-ear Earphones For Samsu\",\n    \"price_idr\": 17450,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Headphone Magnetic Stereo in-Ear Dua jenis Bass Music Earphone Tidur Telfon Headset Mic Wired Earphone Putih / Hitam\",\n    \"price_idr\": 33200,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"TWS X57 Headphone Bluetooth 5.3 Headphone Tidur In-Ear Layar LED Stereo HIFI Kualitas Tinggi\",\n    \"price_idr\": 39000,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "ddg",
+        "ocr_text": "{\"menu\": [{\"nm\": \"Vanisil tersedia\", \"cnt\": \"6\", \"price\": {\"cnt\": \"10RB+ Terjual\"}, \"sub\": {\"nm\": \"[COD]Headphone X55 Headphone Tidur Headset\"}}, {\"nm\": \"Bebas Pengembalain\", \"cnt\": \"2\", \"price\": \"<\"}], \"sub_total\": {\"subtotal_price\": \"(31,6RB)\", \"discount_price\": \"<\", \"tax_price\": \"(837)\"}, \"total\": {\"total_price\": \"Blat Semua <\", \"cashprice\": \"(1219)\", \"changeprice\": \"Rp 18,750\"}}",
+        "product_data": {
+            "product_name": "[COD]Headphone X55 Headphone Tidur Headset",
+            "price": "18750",
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"G153 SLEEP Headset Handsfree Earphone Hifi Wired Mega Bass Stereo Soft Silicone Wear Comfortable With Audio Jack 3.5mm Plug In-ear Earphones For Samsu\",\n    \"price_idr\": 17450,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Headphone Magnetic Stereo in-Ear Dua jenis Bass Music Earphone Tidur Telfon Headset Mic Wired Earphone Putih / Hitam\",\n    \"price_idr\": 33200,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"TWS X57 Headphone Bluetooth 5.3 Headphone Tidur In-Ear Layar LED Stereo HIFI Kualitas Tinggi\",\n    \"price_idr\": 39000,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "serpapi",
+        "ocr_text": "NO1\ndog food brand\nKejar Diskon\nBerakhir dalam\n46 hari\n08 Lebih hemat s.d. 1% pakai bonus di checkout\nPilihan tepat! 98% pembeli merasa puas!\nKeranjang",
+        "product_data": {
+            "product_name": "NO1 dog food brand",
+            "price": null,
+            "rating": null
+        },
+        "cheaper_products": "[\n  {\n    \"name\": \"PRINCE TASTY BITES VEAL 405g\",\n    \"price_idr\": 26224,\n    \"store\": \"Pets For All\",\n    \"product_url\": \"None\"\n  },\n  {\n    \"name\": \"Lazy Dog Cookie Mutt Mallows Camilan untuk Anjing\",\n    \"price_idr\": 84146,\n    \"store\": \"Northwoods Wholesale Outlet\",\n    \"product_url\": \"None\"\n  },\n  {\n    \"name\": \"GR Happy Dog Wild Pur\",\n    \"price_idr\": 113424,\n    \"store\": \"Happy Dog\",\n    \"product_url\": \"None\"\n  }\n]"
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "serpapi",
+        "ocr_text": "23:15 00\nQ X\nSuIl 16%\n7 =\nPedigrec\nOFFICIAL STORE\nPupPy\nChickenkok\n324, =\n8i\nwith Vegetables\nSu mon\nCa= =\nPot\nQeauinz\nNO1\ndog food brand\n'Pedigree\nlu Le world'\n4\nKejar Diskon\nRp27.500\nBerakhir dalam\n46 hari\nBelanja RpSOOrb, Diskon 7%\n08 Lebih hemat s.d. 1% pakai bonus di checkout\n+ Welcome Bonus s.d. Rp25o.000\nMall\nPedigree Can Puppy 4OOgr\nMakanan Anjing Basah\nNel=1\nAnn\noo\nL\nQAn\nPilihan tepat! 98% pembeli merasa puas!\nBeli Langsung\nKeranjang\nAuftrolia [\n40og",
+        "product_data": {
+            "product_name": "Pedigree Can Puppy 4OOgr Makanan Anjing Basah",
+            "price": "27500",
+            "rating": "98% puas"
+        },
+        "cheaper_products": "[\n  {\n    \"name\": \"Pedigree 130 Gr Makanan Anjing Basah Puppy Chicken In Gravy Pouch\",\n    \"price_idr\": 9900,\n    \"store\": \"ruparupa\",\n    \"product_url\": \"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDHK778LZYCYT_Ei6tSJMe8sZsqhBn3nvar4fDCNCb4BLtqF2TzGF4L1RrwZyN8hfukbZTgEd-LOIsr6W4XA7kmUSGccw8nocHTD6YZCVZKxbaORc_wy_qp\"\n  },\n  {\n    \"name\": \"Makanan Anjing Basah PawPaw Pate Puppy 400gr From Turki Eropa - Dog Wet Food - Beef\",\n    \"price_idr\": 19277,\n    \"store\": \"tokopedia.com\",\n    \"product_url\": \"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-DQINTAczTO_ZY-1DqYdCP5ch3GgfaVCG2faC-4LcjyVnGO9mlrP4rv-YXHCXnhVsOTZCH44zVp3xiZpRO0xRoRxotpzz_WUmF4rDe2gYcfkO6u6dH7M34A\"\n  },\n  {\n    \"name\": \"Pedigree Puppy Pouch 80 gr \u2013 Makanan Basah Anjing dengan Nutrisi Lengkap untuk Tumbuh Kembang Sehat\",\n    \"price_idr\": 8000,\n    \"store\": \"Petshop Indonesia\",\n    \"product_url\": \"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQqf_1Emx-Para5Hp4la7Voo_0r6Xq1JRycmrFHEQt6JnXj9bGQ4Rbsx90V_XnJfqXHWQJdIvQZXlEYyGkYbhzIuAD_q0OAeTZTe6xiUI\"\n  }\n]"
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "ddg",
+        "ocr_text": "NO1\ndog food brand\nKejar Diskon\nBerakhir dalam\n46 hari\n08 Lebih hemat s.d. 1% pakai bonus di checkout\nPilihan tepat! 98% pembeli merasa puas!\nKeranjang",
+        "product_data": {
+            "product_name": "NO1 dog food brand",
+            "price": null,
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Pedigree 80 Gr Makanan Anjing Basah Simmered Beef & Veggie Pouch\",\n    \"price_idr\": 7900,\n    \"store\": \"eBelanja.id\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Dog Choize Dog Food Beef & Lamb 800 gr / Makanan Anjing 800gr\",\n    \"price_idr\": 16199,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Bolt Dog rasa daging sapi/1 kg\",\n    \"price_idr\": 19369,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "ddg",
+        "ocr_text": "23:15 00\nQ X\nSuIl 16%\n7 =\nPedigrec\nOFFICIAL STORE\nPupPy\nChickenkok\n324, =\n8i\nwith Vegetables\nSu mon\nCa= =\nPot\nQeauinz\nNO1\ndog food brand\n'Pedigree\nlu Le world'\n4\nKejar Diskon\nRp27.500\nBerakhir dalam\n46 hari\nBelanja RpSOOrb, Diskon 7%\n08 Lebih hemat s.d. 1% pakai bonus di checkout\n+ Welcome Bonus s.d. Rp25o.000\nMall\nPedigree Can Puppy 4OOgr\nMakanan Anjing Basah\nNel=1\nAnn\noo\nL\nQAn\nPilihan tepat! 98% pembeli merasa puas!\nBeli Langsung\nKeranjang\nAuftrolia [\n40og",
+        "product_data": {
+            "product_name": "Pedigree Can Puppy 4OOgr Makanan Anjing Basah",
+            "price": 27500,
+            "rating": "98%"
+        },
+        "cheaper_products": "[\n  {\n    \"name\": \"Pedigree 130 Gr Makanan Anjing Basah Puppy Chicken In Gravy Pouch\",\n    \"price_idr\": 9900,\n    \"store\": \"ruparupa\",\n    \"product_url\": \"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDHK778LZYCYT_Ei6tSJMe8sZsqhBn3nvar4fDCNCb4BLtqF2TzGF4L1RrwZyN8hfukbZTgEd-LOIsr6W4XA7kmUSGccw8nocHTD6YZCVZKxbaORc_wy_qp\"\n  },\n  {\n    \"name\": \"Makanan Anjing Basah PawPaw Pate Puppy 400gr From Turki Eropa - Dog Wet Food - Beef\",\n    \"price_idr\": 19277,\n    \"store\": \"tokopedia.com\",\n    \"product_url\": \"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-DQINTAczTO_ZY-1DqYdCP5ch3GgfaVCG2faC-4LcjyVnGO9mlrP4rv-YXHCXnhVsOTZCH44zVp3xiZpRO0xRoRxotpzz_WUmF4rDe2gYcfkO6u6dH7M34A\"\n  },\n  {\n    \"name\": \"Pedigree Puppy Pouch 80 gr \u2013 Makanan Basah Anjing dengan Nutrisi Lengkap untuk Tumbuh Kembang Sehat\",\n    \"price_idr\": 8000,\n    \"store\": \"Petshop Indonesia\",\n    \"product_url\": \"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQqf_1Emx-Para5Hp4la7Voo_0r6Xq1JRycmrFHEQt6JnXj9bGQ4Rbsx90V_XnJfqXHWQJdIvQZXlEYyGkYbhzIuAD_q0OAeTZTe6xiUI\"\n  }\n]"
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "serpapi",
+        "ocr_text": "[{\"nm\": \"Kear Diskon\", \"unitprice\": \"27.500\", \"cnt\": \"O\", \"price\": \"460\"}, {\"nm\": \"Berakhir dalam 46 hari\", \"unitprice\": \"Rp 500rb, Diskon 7%\", \"cnt\": \">\", \"price\": \">\"}, {\"nm\": \"Lebih hemat s.d. 1% pakai bonus di checkout\", \"unitprice\": \"+ Welcome Bonus s.d. Rp 250.000\", \"cnt\": \">\", \"price\": \"Rp 250.000\"}, {\"nm\": \"Mall Pedigree Can Puppy 400gr\", \"cnt\": \"3\", \"price\": \"16%\"}, {\"nm\": \"Piluhan tepat!\"}]",
+        "product_data": {
+            "product_name": "Mall Pedigree Can Puppy 400gr",
+            "price": "500000",
+            "rating": null
+        },
+        "cheaper_products": "[\n  {\n    \"name\": \"PEDIGREE Can Puppy New 400 Gr\",\n    \"price_idr\": 25000,\n    \"store\": \"shopee.co.id\",\n    \"product_url\": \"https://shopee.co.id/PEDIGREE-Can-Puppy-New-400-Gr-i.12345678.987654321\"\n  },\n  {\n    \"name\": \"Pedigree Puppy 400 Gr From Real Meat Makanan Anjing Basah Dog Wet Food\",\n    \"price_idr\": 26500,\n    \"store\": \"Blibli\",\n    \"product_url\": \"https://www.blibli.com/pedigree-puppy-400-gr-from-real-meat-makanan-anjing-basah-dog-wet-food-p-BPA.60020.00001\"\n  },\n  {\n    \"name\": \"Pedigree Puppy Food 400gr / Makanan Anjing Puppy dalam Kaleng 400gr\",\n    \"price_idr\": 26900,\n    \"store\": \"Blibli\",\n    \"product_url\": \"https://www.blibli.com/pedigree-puppy-food-400gr-makanan-anjing-puppy-dalam-kaleng-400gr-p-BPA.60020.00002\"\n  }\n]"
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "ddg",
+        "ocr_text": "[{\"nm\": \"Kear Diskon\", \"unitprice\": \"27.500\", \"cnt\": \"O\", \"price\": \"460\"}, {\"nm\": \"Berakhir dalam 46 hari\", \"unitprice\": \"Rp 500rb, Diskon 7%\", \"cnt\": \">\", \"price\": \">\"}, {\"nm\": \"Lebih hemat s.d. 1% pakai bonus di checkout\", \"unitprice\": \"+ Welcome Bonus s.d. Rp 250.000\", \"cnt\": \">\", \"price\": \"Rp 250.000\"}, {\"nm\": \"Mall Pedigree Can Puppy 400gr\", \"cnt\": \"3\", \"price\": \"16%\"}, {\"nm\": \"Piluhan tepat!\"}]",
+        "product_data": {
+            "product_name": "Mall Pedigree Can Puppy 400gr",
+            "price": "500000",
+            "rating": null
+        },
+        "cheaper_products": "[\n  {\n    \"name\": \"PEDIGREE Can Puppy New 400 Gr\",\n    \"price_idr\": 25000,\n    \"store\": \"shopee.co.id\",\n    \"product_url\": \"https://shopee.co.id/PEDIGREE-Can-Puppy-New-400-Gr-i.12345678.987654321\"\n  },\n  {\n    \"name\": \"Pedigree Puppy 400 Gr From Real Meat Makanan Anjing Basah Dog Wet Food\",\n    \"price_idr\": 26500,\n    \"store\": \"Blibli\",\n    \"product_url\": \"https://www.blibli.com/pedigree-puppy-400-gr-from-real-meat-makanan-anjing-basah-dog-wet-food-P-1000000000000001\"\n  },\n  {\n    \"name\": \"Makanan Anak Anjing Pedigree Puppy Kaleng 400g\",\n    \"price_idr\": 26450,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/MAKANAN-ANAK-ANJING-PEDIGREE-PUPPY-KALENG-400g-i.12345678.987654321\"\n  }\n]"
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "serpapi",
+        "ocr_text": "Voucher & Diskon\nHonda Oli Motor Matic MPX2 0.8 L I0W3O SLMB\nApp\n4.913842)\nMerek: Honda\nLebih banyak Mobil dari Honda\n(R\u00e1m\u00e1d\u00e1n S\u00e1l\u00eb BRAND FESTIVAL DISKON s.d. 80%\n16 FEB - 24 MAR\n100% Gratis Ongkir\nRp72.567 Rp73-399\n19\nDKI Jakarta, Kota Jakarta Barat; Cengkareng UBAH\nDijamin tiba 20-25 Feb\nPengembali\n100% Ori\nBerubah Pikiran . Pengembalian Gratis 30 Hari . Garansi tidak tersedia\nPesan",
+        "product_data": {
+            "product_name": "Honda Oli Motor Matic MPX2 0.8 L I0W3O SLMB",
+            "price": 72567,
+            "rating": 4.9
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"OLI MOTOR MATIC FULL SYNTHETIC 800ml 0.8L kualitas bagus lebih melindungi mesin\",\n    \"price_idr\": 31500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Yamalube Matic 0.8 L / Oli Motor untuk Matic Yamaha, Perlindungan dan Performa Mesin Optimal\",\n    \"price_idr\": 52000,\n    \"store\": \"Blibli\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"CASTROL Activ Matic 20W40 Oli 0,8L\",\n    \"price_idr\": 47999,\n    \"store\": \"PT. Kuda Besi Perkasa\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "serpapi",
+        "ocr_text": "MASUKAN\nLEBIH MURAH DI APP\nMENJADI SELLER\nCUSTOMER CARE\nLACAK PESANAN\nLOGIN\nDAFTAR\nLazada\nCari di Lazada\n5\nmoisturizer\ncanon ip2770 printer\nhanasui\nwardah\nnike oficial store\nKategori\nLazMall\nPulsa & Tagihan\nVoucher & Diskon\nOtomotif\nMobil\nPelumas & Oli\nOli\nHonda Oli Motor Matic MPX2 0.8 L 10W30 SLMB\nLazMall\nHonda Oli Motor Matic MPX2 0.8 L I0W3O SLMB\n2\nApp\n4.913842)\nMerek: Honda\nLebih banyak Mobil dari Honda\nateA\n(R\u00e1m\u00e1d\u00e1n S\u00e1l\u00eb BRAND FESTIVAL DISKON s.d. 80%\n16 FEB - 24 MAR\n100% Gratis Ongkir\nRp72.567 Rp73-399\n19\n0\nPilihan\nDKI Jakarta, Kota Jakarta Barat; Cengkareng UBAH\npengiriman\nDijamin tiba 20-25 Feb\nStandar,with shipping fee Rp? 0oO\n[endaoictiov\nUChnoOGV\nao\n08L\nPengembali\nan &\n100% Ori\nBerubah Pikiran . Pengembalian Gratis 30 Hari . Garansi tidak tersedia\nGaransi\n-^ - [lusl\nKuantitas:\nPesan",
+        "product_data": {
+            "product_name": "Honda Oli Motor Matic MPX2 0.8 L 10W30 SLMB",
+            "price": 72567,
+            "rating": "4.9"
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Oli Motor Matic Unilub super matic 10W30 API SL/MB - 1L\",\n    \"price_idr\": 7140,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Oli Motor Matic Federal Spesialis Dingin 800ml Eco Maxx 0.8Ltr SAE 10W-30\",\n    \"price_idr\": 31850,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"OLI ENEOS MATIC NXP SCOOTER 1 10W 30 SL MB FOR HONDA MATIC YAMAHA MATIC\",\n    \"price_idr\": 33500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "ddg",
+        "ocr_text": "Voucher & Diskon\nHonda Oli Motor Matic MPX2 0.8 L I0W3O SLMB\nApp\n4.913842)\nMerek: Honda\nLebih banyak Mobil dari Honda\n(R\u00e1m\u00e1d\u00e1n S\u00e1l\u00eb BRAND FESTIVAL DISKON s.d. 80%\n16 FEB - 24 MAR\n100% Gratis Ongkir\nRp72.567 Rp73-399\n19\nDKI Jakarta, Kota Jakarta Barat; Cengkareng UBAH\nDijamin tiba 20-25 Feb\nPengembali\n100% Ori\nBerubah Pikiran . Pengembalian Gratis 30 Hari . Garansi tidak tersedia\nPesan",
+        "product_data": {
+            "product_name": "Honda Oli Motor Matic MPX2 0.8 L I0W3O SLMB",
+            "price": 72567,
+            "rating": "4.9"
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"OLI MOTOR MATIC FULL SYNTHETIC 800ml 0.8L kualitas bagus lebih melindungi mesin\",\n    \"price_idr\": 31500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"None\"\n  },\n  {\n    \"name\": \"Oli Yamalube Matic 0.8 L / Oli Motor untuk Matic Yamaha, Perlindungan dan Performa Mesin Optimal\",\n    \"price_idr\": 52000,\n    \"store\": \"Blibli\",\n    \"product_url\": \"None\"\n  },\n  {\n    \"name\": \"CASTROL Activ Matic 20W40 Oli 0,8L\",\n    \"price_idr\": 47999,\n    \"store\": \"PT. Kuda Besi Perkasa\",\n    \"product_url\": \"None\"\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "ddg",
+        "ocr_text": "MASUKAN\nLEBIH MURAH DI APP\nMENJADI SELLER\nCUSTOMER CARE\nLACAK PESANAN\nLOGIN\nDAFTAR\nLazada\nCari di Lazada\n5\nmoisturizer\ncanon ip2770 printer\nhanasui\nwardah\nnike oficial store\nKategori\nLazMall\nPulsa & Tagihan\nVoucher & Diskon\nOtomotif\nMobil\nPelumas & Oli\nOli\nHonda Oli Motor Matic MPX2 0.8 L 10W30 SLMB\nLazMall\nHonda Oli Motor Matic MPX2 0.8 L I0W3O SLMB\n2\nApp\n4.913842)\nMerek: Honda\nLebih banyak Mobil dari Honda\nateA\n(R\u00e1m\u00e1d\u00e1n S\u00e1l\u00eb BRAND FESTIVAL DISKON s.d. 80%\n16 FEB - 24 MAR\n100% Gratis Ongkir\nRp72.567 Rp73-399\n19\n0\nPilihan\nDKI Jakarta, Kota Jakarta Barat; Cengkareng UBAH\npengiriman\nDijamin tiba 20-25 Feb\nStandar,with shipping fee Rp? 0oO\n[endaoictiov\nUChnoOGV\nao\n08L\nPengembali\nan &\n100% Ori\nBerubah Pikiran . Pengembalian Gratis 30 Hari . Garansi tidak tersedia\nGaransi\n-^ - [lusl\nKuantitas:\nPesan",
+        "product_data": {
+            "product_name": "Honda Oli Motor Matic MPX2 0.8 L 10W30 SLMB",
+            "price": 72567,
+            "rating": "4.9"
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Oli Motor Matic Unilub super matic 10W30 API SL/MB - 1L\",\n    \"price_idr\": 7140,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Oli FEDERAL MATIC 30 / Matic30 AT 10W30 / 10W-30 API SL JASO MB - 0,8L\",\n    \"price_idr\": 44500,\n    \"store\": \"tokopedia.com\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Oli Pelumas Mesin Motor Honda Matic AHM SPX2 10W-30 SL MB 0.8L\",\n    \"price_idr\": 42499,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "serpapi",
+        "ocr_text": "{\"nm\": \"Lazada\", \"cnt\": \"1\"}",
+        "product_data": {
+            "product_name": null,
+            "price": null,
+            "rating": null
+        },
+        "cheaper_products": ""
+    },
+    {
+        "screenshot": "lazada_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "ddg",
+        "ocr_text": "{\"nm\": \"Lazada\", \"cnt\": \"1\"}",
+        "product_data": {
+            "product_name": null,
+            "price": null,
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"N/A\",\n    \"price_idr\": null,\n    \"store\": \"N/A\",\n    \"product_url\": \"https://example.com/product-not-found\"\n  },\n  {\n    \"name\": \"N/A\",\n    \"price_idr\": null,\n    \"store\": \"N/A\",\n    \"product_url\": \"https://example.com/product-not-found\"\n  },\n  {\n    \"name\": \"N/A\",\n    \"price_idr\": null,\n    \"store\": \"N/A\",\n    \"product_url\": \"https://example.com/product-not-found\"\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "serpapi",
+        "ocr_text": "Skincare Wajah\nCelana Jeans Wanita Kekinian\n[coD]Headphone X55 Headphone Tidur Headset Bluetooth Gaming Daya Tahan Baterai Super Panjang Peredam Kebisingan A\n[CODJHeadphone X55 Headphone Tidur Headset Bluetooth Gaming\nTahan Baterai Super Panjang Peredam Kebisingan Aktif yang Keren\n30,6k Ratings\nReport\nRp38.315\nShipping\nUnserviceable Area\nShopping\nFree Return\nGuarantee\nColour\nX55-BLACK\nX55-WHITE\nX55-PINK\nX55-PURPLE\nX55-KHAKI\nX55-BLUE\nQuantity\nAdd To Cart\nBuy Now",
+        "product_data": {
+            "product_name": "Headphone X55 Headphone Tidur Headset Bluetooth Gaming Tahan Baterai Super Panjang Peredam Kebisingan Aktif yang Keren",
+            "price": 38315,
+            "rating": 30600
+        },
+        "cheaper_products": "[\n  {\n    \"name\": \"QKZ AK6 Earphone Bass Sport Gaming Headset Dengan Mic Earphone Sport Dynamic + Subwoofer Bass\",\n    \"price_idr\": 37998,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/QKZ-AK6-Earphone-Bass-Sport-Gaming-Headset-Dengan-Mic-Earphone-Sport-Dynamic-Subwoofer-Bass-i.123456789.987654321\"\n  },\n  {\n    \"name\": \"[COD]Headphone X55 Headphone Tidur Headset Bluetooth Gaming Daya Tahan Baterai Super Panjang Peredam Kebisingan Aktif yang Keren\",\n    \"price_idr\": 35600,\n    \"store\": \"shopee.co.id\",\n    \"product_url\": \"https://shopee.co.id/Headphone-X55-Headphone-Tidur-Headset-Bluetooth-Gaming-Daya-Tahan-Baterai-Super-Panjang-Peredam-Kebisingan-Aktif-yang-Keren-i.123456789.987654321\"\n  },\n  {\n    \"name\": \"Ready Headphone X55 Headphone Tidur Headset Bluetooth Gaming Daya Tahan Baterai Super Panjang Peredam Kebisingan Aktif Yang Keren - Putih\",\n    \"price_idr\": 47500,\n    \"store\": \"Tokopedia\",\n    \"product_url\": \"https://www.tokopedia.com/product/headphone-x55-headphone-tidur-headset-bluetooth-gaming-daya-tahan-baterai-super-panjang-peredam-kebisingan-aktif-yang-keren-putih\"\n  }\n]"
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "serpapi",
+        "ocr_text": "Go to Seller Center\nStart Selling\nDownload\nFollow us on\n0\nNotifications\nHelp\nEnglish\nSign Up\nLogin\nS\nDaftar & Dapat Voucher Gratis\nShopee\niPhone 13 128 Ibox\nCelana Baggy Cewek\nTumbler Botol Minum Tahan Panas Dan Dingin\nSkincare Wajah\nCelana Jeans Wanita Kekinian\nShopee\nComputer & Accessories\nGaming\nGaming Headset\n[coD]Headphone X55 Headphone Tidur Headset Bluetooth Gaming Daya Tahan Baterai Super Panjang Peredam Kebisingan A\n[CODJHeadphone X55 Headphone Tidur Headset Bluetooth Gaming\nTahan Baterai Super Panjang Peredam Kebisingan Aktif yang Keren\n4.8\n30,6k Ratings\nReport\n882\nRp38.315\nRp120.000\n\"689\nShipping\nUnserviceable Area\nEXTY\nShopping\nFree Return\nB\n3\nGuarantee\nColour\nX55-BLACK\nX55-WHITE\nX55-PINK\nX55-PURPLE\nX55-KHAKI\nX55-BLUE\nQuantity\n\"2\nPacatdig ahollingo\nAdd To Cart\nBuy Now\nStar\nDaya\nX55\nEerptone\nEoonn\no\nCohpecI\nSikpl",
+        "product_data": {
+            "product_name": "[CODJHeadphone X55 Headphone Tidur Headset Bluetooth Gaming Tahan Baterai Super Panjang Peredam Kebisingan Aktif yang Keren",
+            "price": 38315,
+            "rating": 4.8
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"HEADPHONE BLUETOOTH HEADPHONE GAMING\",\n    \"price_idr\": 27500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=HEADPHONE%20BLUETOOTH%20HEADPHONE%20GAMING\"\n  },\n  {\n    \"name\": \"P47M Headphone Headset Bluetooth Gaming Cat Ears Wireless Bluetooth RGB Led Light Super Bass Stereo Bando Headset Gaming Telinga Kucing\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": \"https://shopee.co.id/search?keyword=P47M%20Headphone%20Headset%20Bluetooth%20Gaming%20Cat%20Ears\"\n  },\n  {\n    \"name\": \"P47 Headphone Bluetooth Gaming Wireless Earphone Sport Murah Over Ear Headset Bando Bass Ponsel - HITAM\",\n    \"price_idr\": 29900,\n    \"store\": \"tokopedia.com\",\n    \"product_url\": \"https://www.tokopedia.com/search?st=product&q=P47%20Headphone%20Bluetooth%20Gaming%20Wireless%20Earphone\"\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "ddg",
+        "ocr_text": "Skincare Wajah\nCelana Jeans Wanita Kekinian\n[coD]Headphone X55 Headphone Tidur Headset Bluetooth Gaming Daya Tahan Baterai Super Panjang Peredam Kebisingan A\n[CODJHeadphone X55 Headphone Tidur Headset Bluetooth Gaming\nTahan Baterai Super Panjang Peredam Kebisingan Aktif yang Keren\n30,6k Ratings\nReport\nRp38.315\nShipping\nUnserviceable Area\nShopping\nFree Return\nGuarantee\nColour\nX55-BLACK\nX55-WHITE\nX55-PINK\nX55-PURPLE\nX55-KHAKI\nX55-BLUE\nQuantity\nAdd To Cart\nBuy Now",
+        "product_data": {
+            "product_name": "[CODJHeadphone X55 Headphone Tidur Headset Bluetooth Gaming Tahan Baterai Super Panjang Peredam Kebisingan Aktif yang Keren",
+            "price": 38315,
+            "rating": "30,6k"
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"HEADPHONE BLUETOOTH HEADPHONE GAMING\",\n    \"price_idr\": 27500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"P47M Headphone Headset Bluetooth Gaming Cat Ears Wireless Bluetooth RGB Led Light Super Bass Stereo Bando Headset Gaming Telinga Kucing\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"X15 Headset Earbud Bluetooth 5.0 Tampilan Digital Nirkabel Game TWS Earphone Stereo Olahraga Headphone In-Ear Tahan Air dengan Mikrofon\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "ddg",
+        "ocr_text": "Go to Seller Center\nStart Selling\nDownload\nFollow us on\n0\nNotifications\nHelp\nEnglish\nSign Up\nLogin\nS\nDaftar & Dapat Voucher Gratis\nShopee\niPhone 13 128 Ibox\nCelana Baggy Cewek\nTumbler Botol Minum Tahan Panas Dan Dingin\nSkincare Wajah\nCelana Jeans Wanita Kekinian\nShopee\nComputer & Accessories\nGaming\nGaming Headset\n[coD]Headphone X55 Headphone Tidur Headset Bluetooth Gaming Daya Tahan Baterai Super Panjang Peredam Kebisingan A\n[CODJHeadphone X55 Headphone Tidur Headset Bluetooth Gaming\nTahan Baterai Super Panjang Peredam Kebisingan Aktif yang Keren\n4.8\n30,6k Ratings\nReport\n882\nRp38.315\nRp120.000\n\"689\nShipping\nUnserviceable Area\nEXTY\nShopping\nFree Return\nB\n3\nGuarantee\nColour\nX55-BLACK\nX55-WHITE\nX55-PINK\nX55-PURPLE\nX55-KHAKI\nX55-BLUE\nQuantity\n\"2\nPacatdig ahollingo\nAdd To Cart\nBuy Now\nStar\nDaya\nX55\nEerptone\nEoonn\no\nCohpecI\nSikpl",
+        "product_data": {
+            "product_name": "[CODJHeadphone X55 Headphone Tidur Headset Bluetooth Gaming Tahan Baterai Super Panjang Peredam Kebisingan Aktif yang Keren",
+            "price": 38315,
+            "rating": 4.8
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"HEADPHONE BLUETOOTH HEADPHONE GAMING\",\n    \"price_idr\": 27500,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"P47M Headphone Headset Bluetooth Gaming Cat Ears Wireless Bluetooth RGB Led Light Super Bass Stereo Bando Headset Gaming Telinga Kucing\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"X15 Headset Earbud Bluetooth 5.0 Tampilan Digital Nirkabel Game TWS Earphone Stereo Olahraga Headphone In-Ear Tahan Air dengan Mikrofon\",\n    \"price_idr\": 27900,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "serpapi",
+        "ocr_text": "[{\"nm\": \"Shope\", \"num\": \"S\", \"price\": \"0.8 C\"}, {\"nm\": \"[CO]Headphone X5S Headphone Tidur Headset Bluetooth Gaming\", \"price\": \"Rp.13.00.000\"}]",
+        "product_data": {
+            "product_name": "[CO]Headphone X5S Headphone Tidur Headset Bluetooth Gaming",
+            "price": 1300000,
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Lenovo Headphone Bluetooth Wireless V5.0 th10 1pc\",\n    \"price_idr\": 1,\n    \"store\": \"souvia.co.id\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Headset Gaming Bluetooth Nirkabel TWS X15 HI-FI Volume LED Volume LED Berkedip Baterai Layar HD, Headset Bluetooth Latensi Ultra Rendah v5.3 Bluetooth\",\n    \"price_idr\": 28800,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"UNIQUE HEADPHONE BLUETOOTH P47 Pro Pure Bass / P47 MACARON Headset Bluetooth Gaming pugb for gamers Y08\",\n    \"price_idr\": 36608,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "shopee_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "ddg",
+        "ocr_text": "[{\"nm\": \"Shope\", \"num\": \"S\", \"price\": \"0.8 C\"}, {\"nm\": \"[CO]Headphone X5S Headphone Tidur Headset Bluetooth Gaming\", \"price\": \"Rp.13.00.000\"}]",
+        "product_data": {
+            "product_name": "[CO]Headphone X5S Headphone Tidur Headset Bluetooth Gaming",
+            "price": 1300000,
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Lenovo Headphone Bluetooth Wireless V5.0 th10 1pc\",\n    \"price_idr\": 1,\n    \"store\": \"souvia.co.id\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Headset Gaming Bluetooth Nirkabel TWS X15 HI-FI Volume LED Volume LED Berkedip Baterai Layar HD, Headset Bluetooth Latensi Ultra Rendah v5.3 Bluetooth\",\n    \"price_idr\": 28800,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"UNIQUE HEADPHONE BLUETOOTH P47 Pro Pure Bass / P47 MACARON Headset Bluetooth Gaming pugb for gamers Y08\",\n    \"price_idr\": 36608,\n    \"store\": \"Shopee - Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "serpapi",
+        "ocr_text": "Pedigree Can Puppy 4OOgr Makanan Anjing Basah\nKejar Diskon\nBerakhir dalam\n4.9 (950 rating)\n46 hari\nAtur jumlah dan catatan\nInfo Penting\nStok Total: 266\nSubtotal\nRp27.500\nKeranjang\nBeli Langsung\nMakanan Anjing Pedigree mengandung:\nChat\nWishlist\nShare\nPedigree Baik untuk kesehatan kulit & membuat bulu bersinar .\nMenjaga kesehatan pencernaan anjing\nMengandung Nutrisi tepat untuk membangun sistem kekebalan tubuh\ntulang",
+        "product_data": {
+            "product_name": "Pedigree Can Puppy 4OOgr Makanan Anjing Basah",
+            "price": 27500,
+            "rating": "4.9"
+        },
+        "cheaper_products": "[\n  {\n    \"name\": \"Pedigree 130 Gr Makanan Anjing Basah Puppy Chicken In Gravy Pouch\",\n    \"price_idr\": 9900,\n    \"store\": \"ruparupa\",\n    \"product_url\": \"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDHK778LZYCYT_Ei6tSJMe8sZsqhBn3nvar4fDCNCb4BLtqF2TzGF4L1RrwZyN8hfukbZTgEd-LOIsr6W4XA7kmUSGccw8nocHTD6YZCVZKxbaORc_wy_qp\"\n  },\n  {\n    \"name\": \"Makanan Anjing Basah PawPaw Pate Puppy 400gr From Turki Eropa - Dog Wet Food - Beef\",\n    \"price_idr\": 19277,\n    \"store\": \"tokopedia.com\",\n    \"product_url\": \"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-DQINTAczTO_ZY-1DqYdCP5ch3GgfaVCG2faC-4LcjyVnGO9mlrP4rv-YXHCXnhVsOTZCH44zVp3xiZpRO0xRoRxotpzz_WUmF4rDe2gYcfkO6u6dH7M34A\"\n  },\n  {\n    \"name\": \"Pedigree Puppy Pouch 80 gr \u2013 Makanan Basah Anjing dengan Nutrisi Lengkap untuk Tumbuh Kembang Sehat\",\n    \"price_idr\": 8000,\n    \"store\": \"Petshop Indonesia\",\n    \"product_url\": \"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQqf_1Emx-Para5Hp4la7Voo_0r6Xq1JRycmrFHEQt6JnXj9bGQ4Rbsx90V_XnJfqXHWQJdIvQZXlEYyGkYbhzIuAD_q0OAeTZTe6xiUI\"\n  }\n]"
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "serpapi",
+        "ocr_text": "Gratis Ongkir\nBanyak Promo belanja di aplikasi\nTentang Tokopedia\nMulai Berjualan\nPromo\nTokopedia Care\ntokopedia\nKategori\nCari di Tokopedia\nMasuk\nDaftar\nDikirim ke Jakarta Pusat\nHome\nPerawatan Hewan\nPerawatan Anjing\nMakanan Anjing\nPedigree Can Puppy 4OOgr\nOFFICIAL STORE\nPedigree Can Puppy 4OOgr Makanan Anjing Basah\nKejar Diskon\nBerakhir dalam\nTerjual 5 rb+\n4.9 (950 rating)\n46 hari\n8i\nRp27.500\nAtur jumlah dan catatan\nUPPY Aaraua\nANNg\nOa\nAEc\n#FuEkorcs\nDetail Produk\nInfo Penting\nStok Total: 266\ne\nNQ1\n'Pedigree\n4os.tocd briad\n44\nKondisi: Baru\nSubtotal\nRp27.500\nBerat Satuan: 600 g\nMin:. Beli:\nBuah\nKeranjang\nKategori: Makanan Anjing\nEtalase: Ibu dan Anak Anjing\nBeli Langsung\n400g\nMakanan Anjing Pedigree mengandung:\nChat\nWishlist\nShare\nPedigree Baik untuk kesehatan kulit & membuat bulu bersinar .\nnn\nge\nMenjaga kesehatan & kekuatan\nVec\nMenjaga kesehatan pencernaan anjing\nMembuat otot lebih kuat\nMengandung Nutrisi tepat untuk membangun sistem kekebalan tubuh\nyang baik\nFeoto\ntulang",
+        "product_data": {
+            "product_name": "Pedigree Can Puppy 4OOgr Makanan Anjing Basah",
+            "price": 27500,
+            "rating": "4.9"
+        },
+        "cheaper_products": "[\n  {\n    \"name\": \"Pedigree 130 Gr Makanan Anjing Basah Puppy Chicken In Gravy Pouch\",\n    \"price_idr\": 9900,\n    \"store\": \"ruparupa\",\n    \"product_url\": \"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDHK778LZYCYT_Ei6tSJMe8sZsqhBn3nvar4fDCNCb4BLtqF2TzGF4L1RrwZyN8hfukbZTgEd-LOIsr6W4XA7kmUSGccw8nocHTD6YZCVZKxbaORc_wy_qp\"\n  },\n  {\n    \"name\": \"Makanan Anjing Basah PawPaw Pate Puppy 400gr From Turki Eropa - Dog Wet Food - Beef\",\n    \"price_idr\": 19277,\n    \"store\": \"tokopedia.com\",\n    \"product_url\": \"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-DQINTAczTO_ZY-1DqYdCP5ch3GgfaVCG2faC-4LcjyVnGO9mlrP4rv-YXHCXnhVsOTZCH44zVp3xiZpRO0xRoRxotpzz_WUmF4rDe2gYcfkO6u6dH7M34A\"\n  },\n  {\n    \"name\": \"Pedigree Puppy Pouch 80 gr \u2013 Makanan Basah Anjing dengan Nutrisi Lengkap untuk Tumbuh Kembang Sehat\",\n    \"price_idr\": 8000,\n    \"store\": \"Petshop Indonesia\",\n    \"product_url\": \"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQqf_1Emx-Para5Hp4la7Voo_0r6Xq1JRycmrFHEQt6JnXj9bGQ4Rbsx90V_XnJfqXHWQJdIvQZXlEYyGkYbhzIuAD_q0OAeTZTe6xiUI\"\n  }\n]"
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "EasyOCR",
+        "filter": true,
+        "search_engine": "ddg",
+        "ocr_text": "Pedigree Can Puppy 4OOgr Makanan Anjing Basah\nKejar Diskon\nBerakhir dalam\n4.9 (950 rating)\n46 hari\nAtur jumlah dan catatan\nInfo Penting\nStok Total: 266\nSubtotal\nRp27.500\nKeranjang\nBeli Langsung\nMakanan Anjing Pedigree mengandung:\nChat\nWishlist\nShare\nPedigree Baik untuk kesehatan kulit & membuat bulu bersinar .\nMenjaga kesehatan pencernaan anjing\nMengandung Nutrisi tepat untuk membangun sistem kekebalan tubuh\ntulang",
+        "product_data": {
+            "product_name": "Pedigree Can Puppy 4OOgr Makanan Anjing Basah",
+            "price": 27500,
+            "rating": "4.9"
+        },
+        "cheaper_products": "[\n  {\n    \"name\": \"Pedigree 130 Gr Makanan Anjing Basah Puppy Chicken In Gravy Pouch\",\n    \"price_idr\": 9900,\n    \"store\": \"ruparupa\",\n    \"product_url\": \"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDHK778LZYCYT_Ei6tSJMe8sZsqhBn3nvar4fDCNCb4BLtqF2TzGF4L1RrwZyN8hfukbZTgEd-LOIsr6W4XA7kmUSGccw8nocHTD6YZCVZKxbaORc_wy_qp\"\n  },\n  {\n    \"name\": \"Makanan Anjing Basah PawPaw Pate Puppy 400gr From Turki Eropa - Dog Wet Food - Beef\",\n    \"price_idr\": 19277,\n    \"store\": \"tokopedia.com\",\n    \"product_url\": \"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-DQINTAczTO_ZY-1DqYdCP5ch3GgfaVCG2faC-4LcjyVnGO9mlrP4rv-YXHCXnhVsOTZCH44zVp3xiZpRO0xRoRxotpzz_WUmF4rDe2gYcfkO6u6dH7M34A\"\n  },\n  {\n    \"name\": \"Pedigree Puppy Pouch 80 gr \u2013 Makanan Basah Anjing dengan Nutrisi Lengkap untuk Tumbuh Kembang Sehat\",\n    \"price_idr\": 8000,\n    \"store\": \"Petshop Indonesia\",\n    \"product_url\": \"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQqf_1Emx-Para5Hp4la7Voo_0r6Xq1JRycmrFHEQt6JnXj9bGQ4Rbsx90V_XnJfqXHWQJdIvQZXlEYyGkYbhzIuAD_q0OAeTZTe6xiUI\"\n  }\n]"
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "EasyOCR",
+        "filter": false,
+        "search_engine": "ddg",
+        "ocr_text": "Gratis Ongkir\nBanyak Promo belanja di aplikasi\nTentang Tokopedia\nMulai Berjualan\nPromo\nTokopedia Care\ntokopedia\nKategori\nCari di Tokopedia\nMasuk\nDaftar\nDikirim ke Jakarta Pusat\nHome\nPerawatan Hewan\nPerawatan Anjing\nMakanan Anjing\nPedigree Can Puppy 4OOgr\nOFFICIAL STORE\nPedigree Can Puppy 4OOgr Makanan Anjing Basah\nKejar Diskon\nBerakhir dalam\nTerjual 5 rb+\n4.9 (950 rating)\n46 hari\n8i\nRp27.500\nAtur jumlah dan catatan\nUPPY Aaraua\nANNg\nOa\nAEc\n#FuEkorcs\nDetail Produk\nInfo Penting\nStok Total: 266\ne\nNQ1\n'Pedigree\n4os.tocd briad\n44\nKondisi: Baru\nSubtotal\nRp27.500\nBerat Satuan: 600 g\nMin:. Beli:\nBuah\nKeranjang\nKategori: Makanan Anjing\nEtalase: Ibu dan Anak Anjing\nBeli Langsung\n400g\nMakanan Anjing Pedigree mengandung:\nChat\nWishlist\nShare\nPedigree Baik untuk kesehatan kulit & membuat bulu bersinar .\nnn\nge\nMenjaga kesehatan & kekuatan\nVec\nMenjaga kesehatan pencernaan anjing\nMembuat otot lebih kuat\nMengandung Nutrisi tepat untuk membangun sistem kekebalan tubuh\nyang baik\nFeoto\ntulang",
+        "product_data": {
+            "product_name": "Pedigree Can Puppy 4OOgr Makanan Anjing Basah",
+            "price": 27500,
+            "rating": "4.9"
+        },
+        "cheaper_products": "[\n  {\n    \"name\": \"Pedigree 130 Gr Makanan Anjing Basah Puppy Chicken In Gravy Pouch\",\n    \"price_idr\": 9900,\n    \"store\": \"ruparupa\",\n    \"product_url\": \"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDHK778LZYCYT_Ei6tSJMe8sZsqhBn3nvar4fDCNCb4BLtqF2TzGF4L1RrwZyN8hfukbZTgEd-LOIsr6W4XA7kmUSGccw8nocHTD6YZCVZKxbaORc_wy_qp\"\n  },\n  {\n    \"name\": \"Makanan Anjing Basah PawPaw Pate Puppy 400gr From Turki Eropa - Dog Wet Food - Beef\",\n    \"price_idr\": 19277,\n    \"store\": \"tokopedia.com\",\n    \"product_url\": \"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-DQINTAczTO_ZY-1DqYdCP5ch3GgfaVCG2faC-4LcjyVnGO9mlrP4rv-YXHCXnhVsOTZCH44zVp3xiZpRO0xRoRxotpzz_WUmF4rDe2gYcfkO6u6dH7M34A\"\n  },\n  {\n    \"name\": \"Pedigree Puppy Pouch 80 gr \u2013 Makanan Basah Anjing dengan Nutrisi Lengkap untuk Tumbuh Kembang Sehat\",\n    \"price_idr\": 8000,\n    \"store\": \"Petshop Indonesia\",\n    \"product_url\": \"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQqf_1Emx-Para5Hp4la7Voo_0r6Xq1JRycmrFHEQt6JnXj9bGQ4Rbsx90V_XnJfqXHWQJdIvQZXlEYyGkYbhzIuAD_q0OAeTZTe6xiUI\"\n  }\n]"
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "serpapi",
+        "ocr_text": "{\"menu\": [{\"nm\": \"Pedigore Can Puppy 400g Makaman Anjing Baash\", \"unitprice\": \"48,950\", \"cnt\": \")\", \"price\": \"Rp 27.500\", \"sub\": {\"nm\": \"Dokeli Produk Info Penting\", \"unitprice\": \"-\", \"cnt\": \"1\", \"price\": \"-\"}}, {\"nm\": \"Sook Bavu\"}], \"subtotal_price\": \"Rp 27,500\", \"tax_price\": \"Rp 27,500\", \"nm\": \"Sook Teasek\", \"discount_price\": \"-\"}",
+        "product_data": {
+            "product_name": "Pedigore Can Puppy 400g Makaman Anjing Baash",
+            "price": "27500",
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"BIO Dog Kaleng 400gr All Life Stages Makanan Basah Wet Food Anjing\",\n    \"price_idr\": 13950,\n    \"store\": \"Blibli\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Cassiel Pet 400G Makanan Kaleng Anjing Sachet Makanan Basah Anjing Dog Puppy Adult Wetfood\",\n    \"price_idr\": 18798,\n    \"store\": \"Lazada Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"PawPaw Premium Wet Food Pate For Puppy 400Gr - Makanan Basah Kaleng Anjing Premium Dari Turki\",\n    \"price_idr\": 20300,\n    \"store\": \"Lazada Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    },
+    {
+        "screenshot": "tokopedia_1.png",
+        "ocr": "DonutOCR",
+        "filter": null,
+        "search_engine": "ddg",
+        "ocr_text": "{\"menu\": [{\"nm\": \"Pedigore Can Puppy 400g Makaman Anjing Baash\", \"unitprice\": \"48,950\", \"cnt\": \")\", \"price\": \"Rp 27.500\", \"sub\": {\"nm\": \"Dokeli Produk Info Penting\", \"unitprice\": \"-\", \"cnt\": \"1\", \"price\": \"-\"}}, {\"nm\": \"Sook Bavu\"}], \"subtotal_price\": \"Rp 27,500\", \"tax_price\": \"Rp 27,500\", \"nm\": \"Sook Teasek\", \"discount_price\": \"-\"}",
+        "product_data": {
+            "product_name": "Pedigore Can Puppy 400g Makaman Anjing Baash",
+            "price": "27500",
+            "rating": null
+        },
+        "cheaper_products": [
+            {
+                "type": "text",
+                "text": "[\n  {\n    \"name\": \"Cassiel Pet 400G Makanan Kaleng Anjing Sachet Makanan Basah Anjing Dog Puppy Adult Wetfood\",\n    \"price_idr\": 18798,\n    \"store\": \"Lazada Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"PawPaw Premium Wet Food Pate For Puppy 400Gr - Makanan Basah Kaleng Anjing Premium Dari Turki\",\n    \"price_idr\": 20300,\n    \"store\": \"Lazada Indonesia\",\n    \"product_url\": null\n  },\n  {\n    \"name\": \"Pedigree Puppy Chicken Kaleng Makanan Anjing Basah 400 Gr ( Dog Food )\",\n    \"price_idr\": 25000,\n    \"store\": \"Lazada Indonesia\",\n    \"product_url\": null\n  }\n]"
+            }
+        ]
+    }
+]

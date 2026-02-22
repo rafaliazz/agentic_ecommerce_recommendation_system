@@ -123,7 +123,6 @@ def recommend_cheaper(product_data: Dict[str, Any]):
     )
 
     response = agent.invoke({"messages": [{"role": "user", "content": input_text}]})
-    print(response["messages"][-1].content)
     return response["messages"][-1].content
 
 # -------------------------

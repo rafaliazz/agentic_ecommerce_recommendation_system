@@ -49,12 +49,14 @@ if uploaded_file:
         with st.spinner("Running OCR..."):
             ocr_engine = EasyOCR(languages=["en", "id"])
 
-            if layout_type == "mobile":
-                boxes = ocr_engine.get_relevant_boxes_mobile(temp_path)
-            else:
-                boxes = ocr_engine.get_relevant_boxes_pc(temp_path)
+            # if layout_type == "mobile":
+            #     boxes = ocr_engine.get_relevant_boxes_mobile(temp_path)
+            # else:
+            #     boxes = ocr_engine.get_relevant_boxes_pc(temp_path)
 
-            st.session_state.ocr_text = "\n".join([b["text"] for b in boxes])
+            boxes = ocr_engine.run(temp_path)
+
+            st.session_state.ocr_text = boxes["text"]
 
     st.subheader("📄 OCR Text")
     st.text_area("Detected Text", st.session_state.ocr_text, height=200)

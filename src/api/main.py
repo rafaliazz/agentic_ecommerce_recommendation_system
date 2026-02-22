@@ -68,9 +68,13 @@ async def analyze_image(file: UploadFile = File(...)):
 
         print("STEP 4: OCR engine created")
 
-        boxes = ocr_engine.get_relevant_boxes_mobile(temp_path)
+        # boxes = ocr_engine.get_relevant_boxes_mobile(temp_path)
 
-        ocr_text = "\n".join([b["text"] for b in boxes])
+        # ocr_text = "\n".join([b["text"] for b in boxes])
+
+        boxes = ocr_engine.run(temp_path)
+        print(boxes["text"])
+        ocr_text = boxes["text"]
 
         print("STEP 5: Extracting product data")
 

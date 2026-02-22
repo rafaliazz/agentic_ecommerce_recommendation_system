@@ -76,42 +76,69 @@ if uploaded_file:
                 # -------------------------
                 st.subheader("💰 Cheaper Alternatives")
 
-                cheaper = data.get("cheaper_products", [])
+                st.write("Raw Response:")
+                st.write(data.get("cheaper_products", {}))
 
-                # If returned as string, try parse
-                if isinstance(cheaper, str):
-                    try:
-                        cheaper = json.loads(cheaper)
-                    except:
-                        st.write(cheaper)
-                        st.stop()
-
-                if isinstance(cheaper, list):
-                    if len(cheaper) == 0:
-                        st.info("No cheaper alternatives found.")
+                try:
+                    # If it's already a list/dict, don't parse
+                    if isinstance(data.get("cheaper_products", {}), str):
+                        parsed = json.loads(data.get("cheaper_products", {}))
                     else:
-                        for item in cheaper:
-                            if not isinstance(item, dict):
-                                continue
+                        parsed = data.get("cheaper_products", {})
+                    products = []
 
-                            with st.container():
-                                st.markdown(f"### {item.get('name', 'Unknown')}")
+                    # Case 1: parsed is already a list of product dicts
+                    if isinstance(parsed, list) and parsed and isinstance(parsed[0], dict):
 
-                                price = item.get("price_idr", 0)
-                                try:
-                                    price = int(price)
-                                except:
-                                    price = 0
+                        # If it's Gemini-style wrapper
+                        if "text" in parsed[0]:
+                            try:
+                                inner = parsed[0]["text"]
 
-                                st.write(f"💵 Price: Rp {price:,}")
-                                st.write(f"🏪 Store: {item.get('store', 'Unknown')}")
-                                st.markdown(
-                                    f"[🔗 View Product]({item.get('product_url', '#')})"
-                                )
-                                st.divider()
-                else:
-                    st.write(cheaper)
+                                # If inner is string → parse it
+                                if isinstance(inner, str):
+                                    products = json.loads(inner)
+                                else:
+                                    products = inner
 
-            except Exception as e:
-                st.error("Request failed:")
-                st.write(str(e))
+                            except Exception:
+                                products = []
+                        else:
+                            # It's already actual products
+                            products = parsed
+
+                    # Case 2: parsed is a string (raw JSON)
+                    elif isinstance(parsed, str):
+                        try:
+                            products = json.loads(parsed)
+                        except:
+                            products = []
+
+                    # -------------------------
+                    # Now safely render
+                    # -------------------------
+
+                    for item in products:
+                        if not isinstance(item, dict):
+                            continue
+
+                        with st.container():
+                            st.markdown(f"### {item.get('name', 'Unknown')}")
+
+                            price = item.get("price_idr", 0)
+                            try:
+                                price = int(price)
+                            except:
+                                price = 0
+
+                            st.write(f"💵 Price: Rp {price:,}")
+                            st.write(f"🏪 Store: {item.get('store', 'Unknown')}")
+                            st.markdown(f"[🔗 View Product]({item.get('product_url', '#')})")
+                            st.divider()
+
+                except Exception as e:
+                    st.error("Parsing error:")
+                    st.write(e)
+            except Exception as e: 
+                st.error("Error")
+                st.write(e)
